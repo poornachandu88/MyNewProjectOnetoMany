@@ -1,0 +1,9 @@
+http://localhost:8089/MyNewProjectOnetoMany/addrecord
+
+use first 
+
+hibernate.hbm2ddl.auto=create
+
+next 
+
+hibernate.hbm2ddl.auto=update
